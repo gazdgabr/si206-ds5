@@ -3,7 +3,7 @@ import unittest
 
 # TODO: read dataset.txt under data folder
 # hint: what is a file path?
-f = open("", "r")
+f = open("./data/dataset.txt", "r")
 
 data = f.read()
 
